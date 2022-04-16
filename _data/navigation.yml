@@ -4,7 +4,7 @@ main:
     url: /
 
   - title: "About"
-    url: /About/
+    url: /about/
 
   - title: "Category"
     url: /categories/
@@ -14,7 +14,7 @@ main:
 
 
 
-  # Navigation에서의 "title"은 _pages 폴더의 각 "title" 명 파일을 지목하여 파일의 형식을 따르며, 페이지에 나타나는 url은 /url/ 입니다.
+  # Navigation에서의 "title"은 _pages 폴더의 각 "title.md" 명 파일을 지목하여 파일의 형식을 따르며, 페이지에 나타나는 url은 /url/ 입니다.
 
 
   #title은 화면에 보여지는 영역입니다. 여기에 기재하는 텍스트값대로 보여집니다.
