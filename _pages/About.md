@@ -1,9 +1,11 @@
 ---
 layout: archive
 permalink: /about/
-title: 'print(” Hello World :) ! ”)'
+title: "About"
 author_profile: true
 ---
+
+# 'print(” Hello World :) ! ”)'
 ## 안녕하세요, 반갑습니다🧑🏻‍💻!
 ## 여러분과 같이 성장하고 싶은 김재근이라고 합니다😤!
 

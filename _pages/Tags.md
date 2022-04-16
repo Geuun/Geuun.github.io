@@ -1,6 +1,6 @@
 ---
 layout: tags
 permalink: /Tags/
-title: "Tags"
+title: 
 author_profile: true
 ---
