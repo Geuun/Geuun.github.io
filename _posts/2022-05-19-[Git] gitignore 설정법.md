@@ -1,5 +1,5 @@
 ---
-title: "2022-05-19-[Git] gitignore 설정법"
+title: "[Git] gitignore 설정법"
 categories:
   - Git
 tags:
@@ -9,13 +9,6 @@ toc_sticky: false
 toc_label:
 published: true
 ---
-
-# .gitignore 설정법
-
-For: 완료 🙌
-Tag: Blog
-속성: May 19, 2022 9:08 AM
-작성일시: May 18, 2022 3:28 PM
 
 # 목차
 
