@@ -1,9 +1,8 @@
 ---
 title: "[Python] File “<stdin>”, line 1 SyntaxError: invaild syntax"
 categories:
-  - Error
-tags:
   - Python
+tags:
   - Error
 toc: false
 toc_sticky: false
